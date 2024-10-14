@@ -1,3 +1,7 @@
+/*   
+   For Products Navigation 
+*/
+
   // Get all the links with class "dropdown-item"
   const links = document.querySelectorAll('.dropdown-item');
 
@@ -23,3 +27,8 @@
       div.style.display = 'block';
     });
   });
+
+
+/*   
+   For image zooming 
+*/
