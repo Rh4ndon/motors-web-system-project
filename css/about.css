@@ -1,0 +1,36 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+.container {
+  display: flex;
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
+}
+.vh{
+  height: 95vh;
+}
+.box{
+ 
+  background-color: white; /* Left side white background */
+  flex: 2; /* Take up equal space */
+  margin-left: 40px; 
+  padding: 0;
+}
+
+.right {
+  background-color: #B3BFB8; /* Right side grey background */
+  flex: 2; /* Take up more space */
+  margin: -20px; 
+  padding: 20px; 
+}
+.img-fluid {
+  width: 92%; /* Make the image responsive */
+  height: auto;
+  display: block; /* Ensure the image takes full width */
+}
+.text-justify {
+font-family: Lato;
+src: url("https://mdn.github.io/web-fonts/LatoReg.ttf");
+line-height: 1.6;
+color: #333;
+padding: 20px;
+}
