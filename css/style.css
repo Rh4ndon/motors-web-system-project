@@ -132,3 +132,9 @@ body {
 .table {
   background-color: #d1e7dd;
 }
+
+@media (max-width: 767px) {
+  .icon360{
+    display: none;
+  }
+}
