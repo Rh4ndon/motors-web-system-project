@@ -60,7 +60,8 @@ To set up this project locally, follow these steps:
 
 ## Documents
 
-The project plan is located [here](https://docs.google.com/spreadsheets/d/15EaK0cQr20WOfhmeqgcDBi--JsyXMPwhVnfQiFPpets/edit?usp=sharing).
+- The project plan is located [here](https://docs.google.com/spreadsheets/d/15EaK0cQr20WOfhmeqgcDBi--JsyXMPwhVnfQiFPpets/edit?usp=sharing).
+- The user testing is located [here](https://docs.google.com/spreadsheets/d/11mFx5YxEG0LmsT-mGhcOD7aOswg8KBo45kd8yYz1mD0/edit?usp=sharing)
 
 ## Contribution Guidelines
 
